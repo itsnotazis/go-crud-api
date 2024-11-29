@@ -1,0 +1,7 @@
+build
+go.sum
+*.log
+*.cache
+tmp
+.env
+.dockerignore
